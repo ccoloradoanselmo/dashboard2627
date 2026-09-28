@@ -1,5 +1,5 @@
 <?php
 
-// Archivo de ejemplo
+// Archivo de ejemplo para prueba de git
 
 ?>
